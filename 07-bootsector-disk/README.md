@@ -1,3 +1,5 @@
+[contents](../index.md)
+
 *Concepts you may want to Google beforehand: hard disk, cylinder, head, sector, 
 carry bit*
 

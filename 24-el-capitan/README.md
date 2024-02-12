@@ -1,3 +1,5 @@
+[contents](../index.md)
+
 **Goal: Update our build system to El Capitan**
 
 If you were following this guide from the beginning and upgraded to El Capitan only

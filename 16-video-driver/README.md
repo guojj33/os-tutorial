@@ -1,3 +1,5 @@
+[contents](../index.md)
+
 *Concepts you may want to Google beforehand: VGA character cells, screen offset*
 
 **Goal: Write strings on the screen**

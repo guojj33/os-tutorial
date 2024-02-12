@@ -1,3 +1,5 @@
+[contents](../index.md)
+
 *Concepts you may want to Google beforehand: freestanding, uint32_t, size_t*
 
 **Goal: Fix miscellaneous issues with our code**

@@ -1,3 +1,5 @@
+[contents](../index.md)
+
 *Concepts you may want to Google beforehand: 32-bit protected mode, VGA, video 
 memory*
 

@@ -1,3 +1,5 @@
+[contents](../index.md)
+
 *Concepts you may want to Google beforehand: stack*
 
 **Goal: Learn how to use the stack**
